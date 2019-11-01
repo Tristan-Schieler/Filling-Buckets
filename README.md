@@ -24,15 +24,11 @@ The first line of the input has one positive integer, n, representing the number
 The first two integers will be the number of vertices and the number of edges in the graph, respectively. The third and fourth integers will be the most difficult amount of water to make and the number of moves that amount takes, respectively. If there is a tie for the amount that takes the greatest number of moves, output will be the smallest amount of water that takes this many moves.
 
 ### Compile
-* LINUX
     * `g++ bucket.cpp -o buckets`
-* WINDOWS
     * `g++ bucket.cpp`
 
 ### Run
-* LINUX
     * `./buckets`
-* WINDOWS
     * `./a.exe`
 
 ### Versioning 
